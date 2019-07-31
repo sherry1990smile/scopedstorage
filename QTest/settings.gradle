@@ -1,0 +1,2 @@
+include ':app', ':readpicture', ':writepicture'
+rootProject.name='QTest'
